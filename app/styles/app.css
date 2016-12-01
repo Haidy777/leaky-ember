@@ -1,0 +1,7 @@
+.extended {
+  display: none;
+}
+
+tbody.is-open .extended {
+  display: table-row;
+}
